@@ -2,7 +2,8 @@
 
 O presente aplicativo surge pela necessidade de maior agilidade e eficiência no processo de julgamento no meio de competições. Visando trazer, desta forma, maior confiabilidade ao processo de avaliação e resultados, além de proporcionar uma melhor experiência para os jurados e participantes.
 
-O projeto está sendo organizado a partir da ferramenta Trello (https://trello.com/invite/b/vUVLms64ATTIfd21679fcbaf7bf923abcf1a992575233FC97FA4/pac-iv). Tendo como foco de sua última versão: a inclusão de CRUD nas telas de cadastro de campeonato e cadastro de corporação. Cada tela vem sendo feita de forma meticulosa, visto que muitos dados dependem de outros para um funcionamento efetivo de CRUD. 
+O projeto está sendo organizado a partir da ferramenta Trello (https://trello.com/invite/b/vUVLms64ATTIfd21679fcbaf7bf923abcf1a992575233FC97FA4/pac-iv). 
+Tendo como foco de sua última versão: a inclusão de CRUD nas telas de cadastro de campeonato e cadastro de corporação. Cada tela vem sendo feita de forma meticulosa, visto que muitos dados dependem de outros para um funcionamento efetivo de CRUD. 
 
 Este aplicativo possui as seguintes funcionalidades:
 
